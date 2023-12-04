@@ -1,0 +1,21 @@
+.sticky2{
+    padding: 10px;
+    font-family:sans-serif;
+    font-weight: bold;
+}
+.caption{
+    font-size: 200%;
+    padding: 10px;
+    color: rgb(104, 104, 236);
+    background-color: rgb(39, 38, 38);
+    position: sticky;
+    top: 0;
+}
+.information{
+    font-size: 100%;
+    padding: 10px;
+    font-weight: normal;
+}
+body{
+    height: 255vh;
+}
